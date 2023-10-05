@@ -1,0 +1,68 @@
+body {
+  background-image: url('background.jpg');
+  text-align: center;
+  font: sans-serif;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: auto;
+  width: 70%;
+  padding: 2em;
+}
+
+h1 {
+  color: green;
+}
+
+.rectangle {
+  margin: 1cm;
+  height: 5cm;
+  background: green;
+  margin-bottom: 0em;
+}
+
+button {
+  font-size: 1cm;
+}
+
+div {
+  color: white;
+  font-size: 2rem;
+}
+
+label{
+  font-size: 100px;
+  font: open;
+}
+
+p{
+  font-size: 50px;
+}
+
+  .rectangle-orange {
+      border-radius: 2rem;
+      background-color: orange;
+      width: 700px;
+      height: 100px;
+    }
+
+    .rectangle-green {
+      border-radius: 2rem;
+      background-color: green;
+      width: 2000px;
+      height: 100px;
+    }
+
+    .rectangle-red {
+      border-radius: 2rem;
+      background-color: red;
+      width: 300px;
+      height: 100px;
+    }
+
+  nav{
+    text-align: left;
+    margin-left: 12rem;
+
+  }
